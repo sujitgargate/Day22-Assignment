@@ -1,16 +1,3 @@
-//This is Hello Message Printing 
-
-public class HelloMessage{
-
-	public static void main(String args[]){
-		System.out.println("Hello message");
-	}
-}
-
-//End of Hello Message//
-
-//This is Employee Daily Wage code
-
 
 //This is EmpPresentAbsent //
 
